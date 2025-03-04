@@ -7,11 +7,11 @@ registered users, and an interactive map to track and update locations.
 
 ### 📱 App Overview
 Login Screen: Users enter their name, password, and upload an image (saved to Firebase as bytecode).
-Contacts Screen: Displays all registered users with their name, image, and last updated time.
-Map Screen:
-Selecting a user zooms in on their location while showing all other users.
-An Update button refreshes the user’s location and timestamp.
-A Current Location button zooms into the user’s own position.
+Contacts Screen: Displays all registered users with their name, image, and last updated time.  
+Map Screen:  
+Selecting a user zooms in on their location while showing all other users.  
+An Update button refreshes the user’s location and timestamp.  
+A Current Location button zooms into the user’s own position.  
 The app ensures smooth performance with efficient data handling and real-time updates.
 
 ---
